@@ -1,0 +1,181 @@
+﻿  main.c
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(50): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(145): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(150): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(217): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(237): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(278): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(292): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(76): warning C4101: 'BYTES': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(77): warning C4101: 'count': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(77): warning C4101: 'i': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(408): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(456): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(457): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(458): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(460): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(543): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(350): warning C4101: 'Yinc': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(348): warning C4101: 'dy': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(346): warning C4101: 'hDC': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(348): warning C4101: 'steps': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(348): warning C4101: 'i2': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(350): warning C4101: 'Xinc': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(348): warning C4101: 'i1': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(348): warning C4101: 'dx': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(664): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(682): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(683): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(684): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(685): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(773): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(815): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(611): warning C4101: 'Yinc': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(609): warning C4101: 'dy': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(609): warning C4101: 'steps': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(611): warning C4101: 'Xinc': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(609): warning C4101: 'dx': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(916): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(932): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(933): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(934): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(936): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1017): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(840): warning C4101: 'Yinc': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(838): warning C4101: 'dy': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(836): warning C4101: 'hDC': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(838): warning C4101: 'steps': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(838): warning C4101: 'i2': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(840): warning C4101: 'Xinc': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(838): warning C4101: 'i1': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(838): warning C4101: 'dx': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1093): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1061): warning C4101: 'min': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1060): warning C4101: 'i': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1136): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1151): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1153): warning C4133: 'return': incompatible types - from 'float *' to 'unsigned char *'
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1113): warning C4101: 'r2': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1113): warning C4101: 'c2': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1114): warning C4101: 'var_rc': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1114): warning C4101: 'var_sum': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1162): warning C4101: 'j': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1260): warning C4133: '=': incompatible types - from 'unsigned char *' to 'float *'
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1263): warning C4133: '=': incompatible types - from 'unsigned char *' to 'float *'
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1266): warning C4133: '=': incompatible types - from 'unsigned char *' to 'float *'
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1269): warning C4133: '=': incompatible types - from 'unsigned char *' to 'float *'
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1293): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1252): warning C4101: 'max': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1252): warning C4101: 'min': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1251): warning C4101: 'j': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1331): warning C4101: 'i': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1368): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1369): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1372): warning C4244: 'function': conversion from 'double' to 'DWORD', possible loss of data
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1355): warning C4101: 'i': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1413): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1414): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1415): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1395): warning C4101: 'Yinc': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1394): warning C4101: 'c1': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1392): warning C4101: 'x_coord0': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1394): warning C4101: 'r0': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1394): warning C4101: 'c0': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1392): warning C4101: 'dy': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1394): warning C4101: 'r1': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1394): warning C4101: 'c': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1392): warning C4101: 'steps': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1392): warning C4101: 'j': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1392): warning C4101: 'y_coord0': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1392): warning C4101: 'x_coord1': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1395): warning C4101: 'Xinc': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1394): warning C4101: 'r': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1392): warning C4101: 'dx': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1392): warning C4101: 'y_coord1': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1444): warning C4101: 'Yinc': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1443): warning C4101: 'x_coord0': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1443): warning C4101: 'dy': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1443): warning C4101: 'steps': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1443): warning C4101: 'j': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1443): warning C4101: 'i2': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1443): warning C4101: 'y_coord0': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1443): warning C4101: 'x_coord1': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1444): warning C4101: 'Xinc': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1443): warning C4101: 'i1': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1443): warning C4101: 'dx': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1443): warning C4101: 'y_coord1': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1494): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1495): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1487): warning C4101: 'i2': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1487): warning C4101: 'i1': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1518): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1519): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1511): warning C4101: 'i2': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1511): warning C4101: 'i1': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1560): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1561): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1562): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1537): warning C4101: 'Yinc': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1536): warning C4101: 'c1': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1534): warning C4101: 'x_coord0': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1536): warning C4101: 'r0': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1536): warning C4101: 'c0': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1534): warning C4101: 'dy': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1536): warning C4101: 'r1': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1536): warning C4101: 'c': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1534): warning C4101: 'steps': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1534): warning C4101: 'j': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1534): warning C4101: 'y_coord0': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1534): warning C4101: 'x_coord1': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1537): warning C4101: 'Xinc': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1536): warning C4101: 'r': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1534): warning C4101: 'dx': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1534): warning C4101: 'y_coord1': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1584): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1607): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1608): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1632): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1633): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1670): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1671): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1652): warning C4101: 'Yinc': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1651): warning C4101: 'c1': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1649): warning C4101: 'B': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1649): warning C4101: 'R': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1649): warning C4101: 'x_coord0': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1651): warning C4101: 'r0': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1651): warning C4101: 'c0': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1649): warning C4101: 'dy': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1651): warning C4101: 'r1': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1651): warning C4101: 'c': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1649): warning C4101: 'steps': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1649): warning C4101: 'j': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1649): warning C4101: 'i': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1649): warning C4101: 'y_coord0': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1649): warning C4101: 'x_coord1': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1652): warning C4101: 'Xinc': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1651): warning C4101: 'r': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1649): warning C4101: 'dx': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1649): warning C4101: 'G': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1649): warning C4101: 'y_coord1': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1688): warning C4101: 'j': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1783): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1784): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1763): warning C4101: 'indices': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1762): warning C4101: '_COLS': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1765): warning C4101: 'Labels': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1760): warning C4101: 'hDC': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1762): warning C4101: '_ROWS': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1765): warning C4101: 'Image': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1762): warning C4101: 'c': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1764): warning C4101: 'RegionSize': unreferenced local variable
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\semester project\trial - copy\plus\main.c(1762): warning C4101: 'r': unreferenced local variable
+main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  plus.vcxproj -> C:\Users\mugdh\Documents\Fall 2018\ECE_631-Introduction to Computer Vision\Semester Project\Trial - Copy\plus\.\Debug\plus.exe

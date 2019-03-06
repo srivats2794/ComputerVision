@@ -1,0 +1,13 @@
+﻿  main.c
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\assignment 4\final\main.c(52): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\assignment 4\final\main.c(153): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\assignment 4\final\main.c(158): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\assignment 4\final\main.c(254): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\assignment 4\final\main.c(412): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\mugdh\documents\fall 2018\ece_631-introduction to computer vision\assignment 4\final\main.c(474): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+  plus.vcxproj -> C:\Users\mugdh\Documents\Fall 2018\ECE_631-Introduction to Computer Vision\Assignment 4\Final\.\Debug\plus.exe
